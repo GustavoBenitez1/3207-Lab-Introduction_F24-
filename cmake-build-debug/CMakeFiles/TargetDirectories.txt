@@ -1,0 +1,3 @@
+C:/Users/guso9/CLionProjects/3207-Lab-Introduction_F24-/cmake-build-debug/CMakeFiles/3207_Lab_Introduction_F24_.dir
+C:/Users/guso9/CLionProjects/3207-Lab-Introduction_F24-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guso9/CLionProjects/3207-Lab-Introduction_F24-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
